@@ -77,8 +77,7 @@ Feel free to fork this repo, make changes, and submit a pull request.
 ---
 
 ## License
-*(Optionally specify a license here; e.g., MIT, Apache, etc.)*  
-This project is released under the [MIT License](LICENSE). You’re free to use, modify, and distribute it as you wish. 
+You’re free to use, modify, and distribute it as you wish. 
 
 ---
 
