@@ -14,14 +14,13 @@ A simple, classic **Snake** game implemented using **HTML**, **CSS**, and **Java
 ---
 
 ## Demo
-*(If you have a live demo, provide a link here. Otherwise, remove this section.)*  
-[Live Demo](#) – Link to your hosted version or GitHub Pages.
+  
+[https://emmanuelazu.github.io/Snake-Game-in-Javascript/](#) – Here is a live demonstration of the game.
 
 ---
 
 ## Features
 - **Retro Gameplay**: Move the snake around and collect food to grow longer.
-- **Responsive Design**: Scales to different browser sizes.
 - **Score Tracking**: Displays the current score and best (or highest) score.
 - **Simple Controls**: Use arrow keys to navigate the snake’s direction.
 
@@ -31,6 +30,7 @@ A simple, classic **Snake** game implemented using **HTML**, **CSS**, and **Java
 1. **Start the Game**: Open the game in your browser.
 2. **Move the Snake**:
    - Use the arrow keys (**←**, **↑**, **→**, **↓**) to direct the snake.
+   - Alternatively using the arrows on your keypad.
 3. **Objective**:  
    - The snake grows in length each time it eats food.
    - Avoid running into the walls or your own tail.
